@@ -1,2 +1,2 @@
-# Minecraft-bot-server
-A simple minecraft bot server using node.js
+# Minecraft Bot Server
+A simple Minecraft bot server using node.js and mineflayer.
